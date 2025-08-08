@@ -4,9 +4,15 @@ Hi! I'm an 18-year-old from Colombia, passionate about learning and exploring ne
 **About Me**
 
 🔭 Currently working on: Expanding my knowledge across various disciplines.
+
 🌱 Currently learning: Programming fundamentals and AI technologies.
+
 👯 Looking to collaborate on: Open-source AI projects and innovative tech solutions.
+
 🤔 Looking for help with: Navigating the world of global knowledge and tech development.
+
 💬 Ask me about: Anything! I love exploring diverse topics and sharing insights.
+
 😄 Pronouns: He/him
+
 ⚡ Fun fact: I'm super friendly and always up for a chat! :)
