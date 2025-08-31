@@ -153,6 +153,9 @@ const developer = {
 
 *⭐ From [XNSPARTA69](https://github.com/XNSPARTA69) with ❤️*
 <p align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="hero" />
+</p>
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=footer&text=GOODBYE!&fontSize=30&fontColor=ffffff" alt="GOODBYE! Banner naranja decorativo" />
 </p>
 
