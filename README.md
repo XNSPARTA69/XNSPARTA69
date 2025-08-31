@@ -152,5 +152,8 @@ const developer = {
 <img src="https://komarev.com/ghpvc/?username=XNSPARTA69&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 *⭐ From [XNSPARTA69](https://github.com/XNSPARTA69) with ❤️*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=footer&text=GOODBYE!&fontSize=30&fontColor=ffffff" alt="GOODBYE! Banner naranja decorativo" />
+</p>
 
 </div>
